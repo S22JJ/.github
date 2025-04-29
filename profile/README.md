@@ -15,7 +15,7 @@
 | | | Yi Xu | Apr.01.2025 | | Inverse Problem |
 | | | Ruizhe Zhang | Apr.08.2025 | | Inverse Problem |
 | | | Mingzhe Huang | Apr.08.2025 | | VideoGen |
-| | | Junjie Shi | Apr.15.2025 | | Inverse Problem |
+| [DAPS](https://arxiv.org/pdf/2407.01521)| arXiv | Junjie Shi | Apr.15.2025 | | Inverse Problem |
 | ... | ... | ... | ... | ... | ... |
 
 ## Teams
